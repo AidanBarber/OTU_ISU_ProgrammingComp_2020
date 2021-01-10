@@ -1,0 +1,22 @@
+{
+  "name": "otu_isu_programmingcomp_2020",
+  "version": "1.0.0",
+  "description": "OTU Programming Comp 2020",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AidanBarber/OTU_ISU_ProgrammingComp_2020.git"
+  },
+  "author": "Aidan Barber",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AidanBarber/OTU_ISU_ProgrammingComp_2020/issues"
+  },
+  "homepage": "https://github.com/AidanBarber/OTU_ISU_ProgrammingComp_2020#readme",
+  "dependencies": {
+    "vue": "^2.6.12"
+  }
+}
